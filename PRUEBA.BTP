@@ -1,0 +1,33 @@
+PRUEBA PROGRAMA A6---------------------------------------------
+
+int a, b;
+float c;
+b = 7 + 2 * 9 / 10;
+
+int a, b;
+float c, d;
+c = a * b + d;
+
+int a, b;
+float c, d;
+char f;
+d = a * c + b + f;
+
+
+PRUEBA ODISEO--------------------------------------------------
+programa nuevo ;
+ funcion suma ( char x , char y ) : bool
+ if ( x >= y ) then
+ retornar true ;
+ else
+ retornar false ;
+ endif
+ endf
+ int var1 , var2 ;
+ var1 =  23 ;
+ var2 =  24 ;
+ repeat
+ var1 = num + num ;
+until
+var1 >= var2 ;
+endfin 
